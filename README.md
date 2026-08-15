@@ -6,4 +6,4 @@ Press ⌥A to look up any word on your Mac screen. PDFs, ebooks, screenshots, su
 
 Runs offline, saves every word you look up. Greek, Thai and Arabic included.
 
-[leafyapp.uk](https://leafyapp.uk) · [Releases & issues](https://github.com/binjto-boop/leafy-releases)
+[leafyapp.uk](https://leafyapp.uk) · [Releases & issues](https://github.com/binjto-boop/leafy-releases) · [@jtobin9ic](https://x.com/jtobin9ic)
