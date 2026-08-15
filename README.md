@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/banner.gif?v=2" alt="building from annoyance" width="100%">
+<img src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/banner.gif" alt="building from annoyance" width="100%">
 
 ### Leafy
 
