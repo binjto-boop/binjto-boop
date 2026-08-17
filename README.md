@@ -2,7 +2,7 @@
 
 <br>
 
-<img align="right" width="190" src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/cats/cat-right.gif" alt="">
+<img align="right" width="217" src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/cats/cat-right.gif" alt="">
 
 ### <img src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/cats/leafy-icon.png" width="26" align="absmiddle"> &nbsp;Leafy
 
@@ -23,7 +23,7 @@ Ten study languages. Free while in beta.
 
 ---
 
-<img align="left" width="175" src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/cats/cat-left.gif" alt="">
+<img align="left" width="196" src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/cats/cat-left.gif" alt="">
 
 ### Jtobin
 
