@@ -6,12 +6,12 @@
 
 ### <img src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/cats/leafy-icon.png" width="26" align="absmiddle"> &nbsp;Leafy
 
-Press <kbd>⌥A</kbd> over any word on your Mac screen and read what it means
-right where you found it.
+Press <kbd>⌥A</kbd> over any word on your Mac screen. The meaning opens right
+where you are reading, and closes when you are done.
 
-It reads pixels rather than text fields, so a scanned PDF, a screenshot or a
-subtitle works the same as a web page. Every lookup keeps the sentence it came
-from, so the library builds itself while you read.
+It reads pixels, not text fields. A scanned PDF works the same as a web page,
+and so does a screenshot or a subtitle. Whatever you look up gets saved with the
+sentence it came from.
 
 Ten study languages. Free while in beta.
 
@@ -20,17 +20,18 @@ Ten study languages. Free while in beta.
 [Discord](https://discord.gg/cr3mHVtT5j)
 
 <br clear="both">
-<br>
+
+---
 
 <img align="left" width="175" src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/cats/cat-left.gif" alt="">
 
 ### Jtobin
 
-I make small Mac things, and they all start the same way: something gets in my
-way often enough that I go and fix it.
+I make small Mac things. They all start the same way: something gets in my way
+often enough that I go and fix it.
 
-What I hold onto while building — it should be quiet, it should keep out of the
-way, and it should still be there the next time you need it.
+Whatever I build should be quiet and stay out of the way. That is most of what I
+care about.
 
 Currently Leafy, and whatever annoys me next.
 
