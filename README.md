@@ -22,7 +22,7 @@ Ten study languages. Free while in beta.
 <br clear="both">
 <br>
 
-<img align="left" width="150" src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/cats/cat-left.gif" alt="">
+<img align="left" width="175" src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/cats/cat-left.gif" alt="">
 
 ### Jtobin
 
