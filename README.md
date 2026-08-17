@@ -4,8 +4,6 @@
 
 <img align="right" width="250" src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/cats/cat-right.gif" alt="">
 
-<img src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/cats/leafy-icon.png" width="30" align="absmiddle">
-&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/buttons/h-leafy-dark.svg"><img src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/buttons/h-leafy-light.svg" alt="Leafy" align="absmiddle"></picture>
 
 Press <img src="https://raw.githubusercontent.com/binjto-boop/binjto-boop/main/buttons/kbd-opta.svg" align="absmiddle" alt="Option A"> over any word on your Mac screen. The meaning
